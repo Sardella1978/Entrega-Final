@@ -5,14 +5,14 @@ const baseDeDatos = [
         id: 1,
         nombre: 'Al final mueren los dos',
         precio: 1500,
-        imagen: './Imagenes/al final mueren los dos.jpg'
+        imagen: './Imagenes/Al final mueren los dos.jpg'
 
     },
     {
         id: 2,
         nombre: 'Brillarás',
         precio: 1750,
-        imagen: './Imagenes/brillarás.jpg'
+        imagen: './Imagenes/Brillaras.jpg'
     },
     {
         id: 3,
@@ -24,19 +24,19 @@ const baseDeDatos = [
         id: 4,
         nombre: 'El día que dejó de nevar en Alaska',
         precio: 1500,
-        imagen: './Imagenes/el dia que dejo de nevar en Alaska.jpg'
+        imagen: './Imagenes/El dia que dejo de nevar en Alaska.jpg'
     },
     {
         id: 5,
         nombre: 'Serás',
         precio: 1500,
-        imagen: './Imagenes/Serás.jpg'
+        imagen: './Imagenes/Seras.jpg'
     },
     {
         id: 6,
         nombre: 'Vivirás',
         precio: 1750,
-        imagen: './Imagenes/Vivirás.png'
+        imagen: './Imagenes/Viviras.png'
     },
 
 ];
